@@ -1,0 +1,16 @@
+=== Student Result Management ===
+
+Student details using inline function:
+Name: Aarav, Marks: 75
+Name: Priya, Marks: 88
+
+After updating Aarav's marks using this pointer:
+Name: Aarav, Marks: 82
+
+Using static member function:
+Total Student objects: 2
+
+Accessing private data through friend class:
+Friend class report
+Name: Aarav
+Marks: 82
